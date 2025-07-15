@@ -14,11 +14,11 @@
 
 **• Visualizations include:**
 
-  • Bar charts for total sales comparison
+   • Bar charts for total sales comparison
 
-  • Pie charts showing sales distribution
+   • Pie charts showing sales distribution
 
-  • Line charts depicting performance gaps
+   • Line charts depicting performance gaps
 
 ## 🧩 Tools & Technologies Used:
 
