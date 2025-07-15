@@ -1,8 +1,8 @@
-#📊 Excel Sales Dashboard Project
+# 📊 Excel Sales Dashboard Project
 
 This project showcases a dynamic Excel dashboard designed to visualize sales performance data of various sales executives across multiple cities, including Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, and Surat.
 
-""🔹 Key Features:""
+**🔹 Key Features:**
 Interactive Dashboards using slicers for city-wise analysis
 
 Total Sales Report with rankings of individual sales executives
