@@ -4,32 +4,34 @@
 
 ## 🔹 Key Features:
 
-Interactive Dashboards using slicers for city-wise analysis
+**• Interactive Dashboards using slicers for city-wise analysis**
 
-Total Sales Report with rankings of individual sales executives
+**• Total Sales Report with rankings of individual sales executives**
 
-Target Achievement % insights to evaluate performance
+**• Target Achievement % insights to evaluate performance**
 
-Gap Analysis through "% Away From Target" metrics
+**• Gap Analysis through "% Away From Target" metrics**
 
-Visualizations include:
+**• Visualizations include:**
 
-Bar charts for total sales comparison
+• Bar charts for total sales comparison
 
-Pie charts showing sales distribution
+• Pie charts showing sales distribution
 
-Line charts depicting performance gaps
+• Line charts depicting performance gaps
 
-🧩 Tools & Technologies Used:
-Microsoft Excel
+## 🧩 Tools & Technologies Used:
 
-Pivot Tables & Pivot Charts
+**• Microsoft Excel**
 
-Slicers for interactivity
+**• Pivot Tables & Pivot Charts**
 
-Data Validation & Formulas
+**• Slicers for interactivity**
 
-VBA-enabled macros (optional depending on version)
+**• Data Validation & Formulas**
 
-📌 Use Case:
-Ideal for tracking sales team performance, setting monthly benchmarks, and identifying areas for improvement through data-driven visuals.
+**• VBA-enabled macros (optional depending on version)**
+
+## 📌 Use Case:
+
+**Ideal for tracking sales team performance, setting monthly benchmarks, and identifying areas for improvement through data-driven visuals.**
