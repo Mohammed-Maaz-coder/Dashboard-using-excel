@@ -1,24 +1,34 @@
 # 📊 Excel Sales Dashboard Project
 
-**This project showcases a dynamic Excel dashboard designed to visualize sales performance data of various sales executives across multiple cities, including Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, and Surat.**
+**This project is an interactive Excel Dashboard built using raw sales data to track and analyze sales performance across multiple cities. It provides key insights into sales executives’ performance, target achievements, and gaps through well-structured reports and visualizations.**
 
-## 🔹 Key Features:
+## 🚀 Key Features:
 
-**• Interactive Dashboards using slicers for city-wise analysis**
+**• Interactive dashboards with city-wise reports (Chennai, Delhi, Mumbai, Nagpur, Patna, Pune, Ranchi, Surat).**
 
-**• Total Sales Report with rankings of individual sales executives**
+**• Sales Executive Performance Tracking – total sales by individual executives.**
 
-**• Target Achievement % insights to evaluate performance**
+**• Target Hit % Analysis – view percentage of targets achieved.**
 
-**• Gap Analysis through "% Away From Target" metrics**
+**• Gap Analysis (Away from Target %) – highlights areas of improvement.**
 
-**• Visualizations include:**
+**• Dynamic Visuals:**
 
    • Bar charts for total sales comparison
 
    • Pie charts showing sales distribution
 
    • Line charts depicting performance gaps
+
+**• Built with Excel Formulas, Pivot Tables, Charts, and Macros (VBA).**
+
+## 📂 Files in Repository
+
+**• Excel Project_dashboard.xlsm → Main interactive dashboard with macros.**
+
+**• Excel Row Data.xlsx → Raw sales dataset used for analysis.**
+
+**• Excel Dashboard Screenshot.png → Preview of the dashboard.**
 
 ## 🧩 Tools & Technologies Used:
 
@@ -32,6 +42,16 @@
 
 **• VBA-enabled macros (optional depending on version)**
 
-## 📌 Use Case:
+## 📸 Preview
 
-**Ideal for tracking sales team performance, setting monthly benchmarks, and identifying areas for improvement through data-driven visuals.**
+## 🎯 Use Case:
+
+**This project can be used by sales teams, managers, and analysts to:**
+
+**• Monitor sales team performance in real-time.**
+
+**• Identify top and low-performing executives.**
+
+**• Track target achievements and improvement areas.**
+
+**• Present business insights in a visually appealing format.**
