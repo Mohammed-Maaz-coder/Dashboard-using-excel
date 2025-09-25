@@ -24,9 +24,9 @@
 
 ## 📂 Files in Repository
 
-**• Excel Project_dashboard.xlsm → Main interactive dashboard with macros.**
+**• [Excel Project_dashboard.xlsm](https://github.com/Mohammed-Maaz-coder/Dashboard-using-excel/blob/main/Excel%20Project_dashborad.xlsm  ) → Main interactive dashboard with macros.**
 
-**• Excel Row Data.xlsx → Raw sales dataset used for analysis.**
+**• [Excel Row Data.xlsx](https://github.com/Mohammed-Maaz-coder/Dashboard-using-excel/blob/main/Excel%20Row%20Data.xlsx) → Raw sales dataset used for analysis.**
 
 **• [Excel Dashboard Screenshot.png ](https://github.com/Mohammed-Maaz-coder/Dashboard-using-excel/blob/main/Excel%20Dashboard%20Screen%20short.png)→ Preview of the dashboard.**
 
